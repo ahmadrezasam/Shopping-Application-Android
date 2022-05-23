@@ -1,0 +1,68 @@
+
+{
+  "products":[
+    {
+      "name":"Watermelon",
+      "description": "Watermelon has high water content and also provides some fiber.",
+      "price": "3.99",
+      "quantity": "1",
+      "unit": "KG",
+      "imageUrl":"card1",
+      "bigimageurl": "b1"
+    },
+    {
+      "name":"Papaya",
+      "description": "Papayas are spherical or pear-shaped fruits\nthat can be as long as 20 inches.",
+      "price": "34.99",
+      "quantity": "1",
+      "unit": "KG",
+      "imageUrl":"card2",
+      "bigimageurl": "b2"
+    },
+    {
+      "name":"Strawberry",
+      "description": "The strawberry is a highly nutritious fruit,\nloaded with vitamin C.",
+      "price": "14.99",
+      "quantity": "1",
+      "unit": "KG",
+      "imageUrl":"card3",
+      "bigimageurl": "b3"
+    },
+    {
+      "name":"Kiwi",
+      "description": "Full of nutrients like vitamin C,\nvitamin K, vitamin E, folate, and potassium.",
+      "price": "15.99",
+      "quantity": "1",
+      "unit": "KG",
+      "imageUrl":"card4",
+      "bigimageurl": "b4"
+    },
+    {
+      "name":"Meat",
+      "description": "Meat is one of the most popular types of meat.\nIt's exceptionally rich in high-quality protein.",
+      "price": "94.99",
+      "quantity": "1",
+      "unit": "KG",
+      "imageUrl":"card5",
+      "bigimageurl": "b5"
+    },
+    {
+      "name":"Fish",
+      "description": "Fish is a low-fat high quality protein. Fish is\nfilled with omega-3 fatty acids and vitamins.",
+      "price": "64.99",
+      "quantity": "1",
+      "unit": "KG",
+      "imageUrl":"card6",
+      "bigimageurl": "b6"
+    },
+    {
+      "name":"Broccoli",
+      "description": "Broccoli is a nutrient-rich vegetable that may enhance your health in a variety of ways.",
+      "price": "13.90",
+      "quantity": "1",
+      "unit": "KG",
+      "imageUrl":"card7",
+      "bigimageurl": "b7"
+    }
+  ]
+}

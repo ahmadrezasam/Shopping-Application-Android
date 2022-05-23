@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/drawable/ic_dairy.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/drawable/ic_fruits.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/drawable/ic_meat.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/drawable/ic_salad.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/drawable/ic_veggies.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/font/open_sans.xml" value="0.284375" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/activity_all_category.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/activity_cart.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/activity_login.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/activity_main.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/activity_product_details.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/activity_registration.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/all_category_row_items.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/cart_items.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/category_row_items.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/discounted_row_items.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/recently_viewed_items.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Cagan/Desktop/Paradox/app/src/main/res/layout/settings_activity.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/drawable/ic_fruits.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/layout/activity_all_category.xml" value="0.1265625" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/layout/activity_cart.xml" value="0.152" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/layout/activity_main.xml" value="0.1265625" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/layout/activity_product_details.xml" value="0.1265625" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/layout/all_category_row_items.xml" value="0.1265625" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/layout/cart_items.xml" value="0.1265625" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/layout/settings_activity.xml" value="0.176" />
+        <entry key="..\:/Users/Cagan/Desktop/SON PROJE/Paradox/app/src/main/res/xml/root_preferences.xml" value="0.264" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/drawable/ic_cart_black.xml" value="0.240625" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/activity_cart.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/activity_login.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/activity_main.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/activity_product_details.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/activity_registration.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/all_category_row_items.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/cart_items.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/category_row_items.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/discounted_row_items.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/recently_viewed_items.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Compressed/Paradox/Paradox/app/src/main/res/layout/settings_activity.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/drawable/buy_now_bg.xml" value="0.1125" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/drawable/ic_account_settings.xml" value="0.1125" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.1125" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/drawable/ic_cart.xml" value="0.1125" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/drawable/ic_cart_black.xml" value="0.1125" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/drawable/ic_cookies.xml" value="0.1125" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/drawable/ic_veggies.xml" value="0.1125" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/drawable/search_bg.xml" value="0.1125" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/layout/cart_items.xml" value="0.25" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.240625" />
+        <entry key="..\:/Users/Markazi.co/Downloads/Paradox/Paradox/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.240625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

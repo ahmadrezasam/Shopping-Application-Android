@@ -1,0 +1,37 @@
+{
+  "products":[
+    {
+      "name":"Banana",
+      "price": "6.0",
+      "category":"Fruits",
+      "amount": "1"
+    },
+    {
+      "name":"Chicken",
+      "price": "50.0",
+      "category":"Meat and Poultry",
+      "amount": "4"
+
+    },
+    {
+      "name":"Milk",
+      "price": "11.5",
+      "category":"Dairy",
+      "amount": "1"
+
+    },
+    {
+      "name":"White Bread",
+      "price": "5.0",
+      "category":"Bread",
+      "amount": "2"
+    },
+    {
+      "name":"Coca cola",
+      "price": "18.5",
+      "category":"Drinks",
+      "amount": "3"
+
+    }
+  ]
+}
